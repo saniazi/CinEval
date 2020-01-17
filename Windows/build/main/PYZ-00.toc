@@ -1,0 +1,2596 @@
+('Z:\\Users\\shakeel\\Documents\\Windows\\build\\main\\PYZ-00.pyz',
+ [('multiprocessing.popen_fork',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\token.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('test.support',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\test\\support\\__init__.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('test.support.testresult',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\test\\support\\testresult.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('nntplib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\nntplib.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('test',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\test\\__init__.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\os.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('cinevalmulti',
+   'Z:\\Users\\shakeel\\Documents\\Windows\\src\\cinevalmulti.py',
+   'PYMODULE'),
+  ('ttkthemes.themed_tk',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\themed_tk.py',
+   'PYMODULE'),
+  ('ttkthemes._widget',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\_widget.py',
+   'PYMODULE'),
+  ('ttkthemes._imgops',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\_imgops.py',
+   'PYMODULE'),
+  ('ttkthemes._utils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\_utils.py',
+   'PYMODULE'),
+  ('PIL.ImageEnhance',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageEnhance.py',
+   'PYMODULE'),
+  ('PIL.ImageStat',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageStat.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('ttkthemes._tkinter',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\_tkinter.py',
+   'PYMODULE'),
+  ('ttkthemes',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\__init__.py',
+   'PYMODULE'),
+  ('ttkthemes.themed_style',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\ttkthemes\\themed_style.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('unidecode',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\__init__.py',
+   'PYMODULE'),
+  ('unidecode.x098',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x098.py',
+   'PYMODULE'),
+  ('unidecode.x085',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x085.py',
+   'PYMODULE'),
+  ('unidecode.x08f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x08f.py',
+   'PYMODULE'),
+  ('unidecode.x05c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x05c.py',
+   'PYMODULE'),
+  ('unidecode.x0d4',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d4.py',
+   'PYMODULE'),
+  ('unidecode.x063',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x063.py',
+   'PYMODULE'),
+  ('unidecode.x093',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x093.py',
+   'PYMODULE'),
+  ('unidecode.x073',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x073.py',
+   'PYMODULE'),
+  ('unidecode.x01e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x01e.py',
+   'PYMODULE'),
+  ('unidecode.x0b8',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b8.py',
+   'PYMODULE'),
+  ('unidecode.x089',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x089.py',
+   'PYMODULE'),
+  ('unidecode.x0cb',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0cb.py',
+   'PYMODULE'),
+  ('unidecode.x0ff',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ff.py',
+   'PYMODULE'),
+  ('unidecode.x07b',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x07b.py',
+   'PYMODULE'),
+  ('unidecode.x031',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x031.py',
+   'PYMODULE'),
+  ('unidecode.x00a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x00a.py',
+   'PYMODULE'),
+  ('unidecode.x0b1',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b1.py',
+   'PYMODULE'),
+  ('unidecode.x024',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x024.py',
+   'PYMODULE'),
+  ('unidecode.x0d0',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d0.py',
+   'PYMODULE'),
+  ('unidecode.x0c4',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c4.py',
+   'PYMODULE'),
+  ('unidecode.x06a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x06a.py',
+   'PYMODULE'),
+  ('unidecode.x056',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x056.py',
+   'PYMODULE'),
+  ('unidecode.x0b9',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b9.py',
+   'PYMODULE'),
+  ('unidecode.x0f9',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0f9.py',
+   'PYMODULE'),
+  ('unidecode.x000',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x000.py',
+   'PYMODULE'),
+  ('unidecode.x0bf',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0bf.py',
+   'PYMODULE'),
+  ('unidecode.x064',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x064.py',
+   'PYMODULE'),
+  ('unidecode.x071',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x071.py',
+   'PYMODULE'),
+  ('unidecode.x032',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x032.py',
+   'PYMODULE'),
+  ('unidecode.x09c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x09c.py',
+   'PYMODULE'),
+  ('unidecode.x017',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x017.py',
+   'PYMODULE'),
+  ('unidecode.x023',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x023.py',
+   'PYMODULE'),
+  ('unidecode.x070',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x070.py',
+   'PYMODULE'),
+  ('unidecode.x01d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x01d.py',
+   'PYMODULE'),
+  ('unidecode.x07f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x07f.py',
+   'PYMODULE'),
+  ('unidecode.x054',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x054.py',
+   'PYMODULE'),
+  ('unidecode.x088',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x088.py',
+   'PYMODULE'),
+  ('unidecode.x0d7',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d7.py',
+   'PYMODULE'),
+  ('unidecode.x0bc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0bc.py',
+   'PYMODULE'),
+  ('unidecode.x0fe',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0fe.py',
+   'PYMODULE'),
+  ('unidecode.x0fd',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0fd.py',
+   'PYMODULE'),
+  ('unidecode.x061',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x061.py',
+   'PYMODULE'),
+  ('unidecode.x0a1',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0a1.py',
+   'PYMODULE'),
+  ('unidecode.x011',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x011.py',
+   'PYMODULE'),
+  ('unidecode.x00c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x00c.py',
+   'PYMODULE'),
+  ('unidecode.x0b5',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b5.py',
+   'PYMODULE'),
+  ('unidecode.x009',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x009.py',
+   'PYMODULE'),
+  ('unidecode.x00e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x00e.py',
+   'PYMODULE'),
+  ('unidecode.x0d6',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d6.py',
+   'PYMODULE'),
+  ('unidecode.x0a4',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0a4.py',
+   'PYMODULE'),
+  ('unidecode.x04e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x04e.py',
+   'PYMODULE'),
+  ('unidecode.x051',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x051.py',
+   'PYMODULE'),
+  ('unidecode.x074',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x074.py',
+   'PYMODULE'),
+  ('unidecode.x05a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x05a.py',
+   'PYMODULE'),
+  ('unidecode.x0cf',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0cf.py',
+   'PYMODULE'),
+  ('unidecode.x02f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x02f.py',
+   'PYMODULE'),
+  ('unidecode.x0b3',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b3.py',
+   'PYMODULE'),
+  ('unidecode.x025',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x025.py',
+   'PYMODULE'),
+  ('unidecode.x020',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x020.py',
+   'PYMODULE'),
+  ('unidecode.x007',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x007.py',
+   'PYMODULE'),
+  ('unidecode.x033',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x033.py',
+   'PYMODULE'),
+  ('unidecode.x0b7',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b7.py',
+   'PYMODULE'),
+  ('unidecode.x0a3',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0a3.py',
+   'PYMODULE'),
+  ('unidecode.x077',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x077.py',
+   'PYMODULE'),
+  ('unidecode.x072',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x072.py',
+   'PYMODULE'),
+  ('unidecode.x0af',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0af.py',
+   'PYMODULE'),
+  ('unidecode.x08e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x08e.py',
+   'PYMODULE'),
+  ('unidecode.x0ba',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ba.py',
+   'PYMODULE'),
+  ('unidecode.x079',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x079.py',
+   'PYMODULE'),
+  ('unidecode.x078',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x078.py',
+   'PYMODULE'),
+  ('unidecode.x0b0',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b0.py',
+   'PYMODULE'),
+  ('unidecode.x08a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x08a.py',
+   'PYMODULE'),
+  ('unidecode.x0fc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0fc.py',
+   'PYMODULE'),
+  ('unidecode.x08c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x08c.py',
+   'PYMODULE'),
+  ('unidecode.x08d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x08d.py',
+   'PYMODULE'),
+  ('unidecode.x026',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x026.py',
+   'PYMODULE'),
+  ('unidecode.x057',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x057.py',
+   'PYMODULE'),
+  ('unidecode.x02e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x02e.py',
+   'PYMODULE'),
+  ('unidecode.x086',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x086.py',
+   'PYMODULE'),
+  ('unidecode.x084',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x084.py',
+   'PYMODULE'),
+  ('unidecode.x06b',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x06b.py',
+   'PYMODULE'),
+  ('unidecode.x065',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x065.py',
+   'PYMODULE'),
+  ('unidecode.x0a2',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0a2.py',
+   'PYMODULE'),
+  ('unidecode.x050',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x050.py',
+   'PYMODULE'),
+  ('unidecode.x00f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x00f.py',
+   'PYMODULE'),
+  ('unidecode.x060',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x060.py',
+   'PYMODULE'),
+  ('unidecode.x1f1',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x1f1.py',
+   'PYMODULE'),
+  ('unidecode.x0b4',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b4.py',
+   'PYMODULE'),
+  ('unidecode.x067',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x067.py',
+   'PYMODULE'),
+  ('unidecode.x095',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x095.py',
+   'PYMODULE'),
+  ('unidecode.x06e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x06e.py',
+   'PYMODULE'),
+  ('unidecode.x06f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x06f.py',
+   'PYMODULE'),
+  ('unidecode.x0d2',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d2.py',
+   'PYMODULE'),
+  ('unidecode.x0c0',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c0.py',
+   'PYMODULE'),
+  ('unidecode.x087',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x087.py',
+   'PYMODULE'),
+  ('unidecode.x096',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x096.py',
+   'PYMODULE'),
+  ('unidecode.x053',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x053.py',
+   'PYMODULE'),
+  ('unidecode.x0c2',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c2.py',
+   'PYMODULE'),
+  ('unidecode.x0d3',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d3.py',
+   'PYMODULE'),
+  ('unidecode.x06c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x06c.py',
+   'PYMODULE'),
+  ('unidecode.x016',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x016.py',
+   'PYMODULE'),
+  ('unidecode.x06d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x06d.py',
+   'PYMODULE'),
+  ('unidecode.x07e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x07e.py',
+   'PYMODULE'),
+  ('unidecode.x080',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x080.py',
+   'PYMODULE'),
+  ('unidecode.x075',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x075.py',
+   'PYMODULE'),
+  ('unidecode.x0c1',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c1.py',
+   'PYMODULE'),
+  ('unidecode.x0cc',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0cc.py',
+   'PYMODULE'),
+  ('unidecode.x09d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x09d.py',
+   'PYMODULE'),
+  ('unidecode.x022',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x022.py',
+   'PYMODULE'),
+  ('unidecode.x082',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x082.py',
+   'PYMODULE'),
+  ('unidecode.x0ae',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ae.py',
+   'PYMODULE'),
+  ('unidecode.x05f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x05f.py',
+   'PYMODULE'),
+  ('unidecode.x1d5',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x1d5.py',
+   'PYMODULE'),
+  ('unidecode.x081',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x081.py',
+   'PYMODULE'),
+  ('unidecode.x05d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x05d.py',
+   'PYMODULE'),
+  ('unidecode.x0c3',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c3.py',
+   'PYMODULE'),
+  ('unidecode.x083',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x083.py',
+   'PYMODULE'),
+  ('unidecode.x012',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x012.py',
+   'PYMODULE'),
+  ('unidecode.x0c5',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c5.py',
+   'PYMODULE'),
+  ('unidecode.x0bb',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0bb.py',
+   'PYMODULE'),
+  ('unidecode.x1d4',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x1d4.py',
+   'PYMODULE'),
+  ('unidecode.x076',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x076.py',
+   'PYMODULE'),
+  ('unidecode.x014',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x014.py',
+   'PYMODULE'),
+  ('unidecode.x0d1',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d1.py',
+   'PYMODULE'),
+  ('unidecode.x0c9',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c9.py',
+   'PYMODULE'),
+  ('unidecode.x0c8',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c8.py',
+   'PYMODULE'),
+  ('unidecode.x099',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x099.py',
+   'PYMODULE'),
+  ('unidecode.x010',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x010.py',
+   'PYMODULE'),
+  ('unidecode.x028',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x028.py',
+   'PYMODULE'),
+  ('unidecode.x030',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x030.py',
+   'PYMODULE'),
+  ('unidecode.x001',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x001.py',
+   'PYMODULE'),
+  ('unidecode.x005',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x005.py',
+   'PYMODULE'),
+  ('unidecode.x0a0',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0a0.py',
+   'PYMODULE'),
+  ('unidecode.x0d5',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0d5.py',
+   'PYMODULE'),
+  ('unidecode.x068',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x068.py',
+   'PYMODULE'),
+  ('unidecode.x02a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x02a.py',
+   'PYMODULE'),
+  ('unidecode.x05b',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x05b.py',
+   'PYMODULE'),
+  ('unidecode.x015',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x015.py',
+   'PYMODULE'),
+  ('unidecode.x0be',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0be.py',
+   'PYMODULE'),
+  ('unidecode.x07c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x07c.py',
+   'PYMODULE'),
+  ('unidecode.x0fa',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0fa.py',
+   'PYMODULE'),
+  ('unidecode.x052',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x052.py',
+   'PYMODULE'),
+  ('unidecode.x00d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x00d.py',
+   'PYMODULE'),
+  ('unidecode.x021',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x021.py',
+   'PYMODULE'),
+  ('unidecode.x0b2',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b2.py',
+   'PYMODULE'),
+  ('unidecode.x066',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x066.py',
+   'PYMODULE'),
+  ('unidecode.x04f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x04f.py',
+   'PYMODULE'),
+  ('unidecode.x07d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x07d.py',
+   'PYMODULE'),
+  ('unidecode.x02c',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x02c.py',
+   'PYMODULE'),
+  ('unidecode.x055',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x055.py',
+   'PYMODULE'),
+  ('unidecode.x05e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x05e.py',
+   'PYMODULE'),
+  ('unidecode.x0ce',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ce.py',
+   'PYMODULE'),
+  ('unidecode.x0c6',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c6.py',
+   'PYMODULE'),
+  ('unidecode.x1d7',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x1d7.py',
+   'PYMODULE'),
+  ('unidecode.x059',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x059.py',
+   'PYMODULE'),
+  ('unidecode.x094',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x094.py',
+   'PYMODULE'),
+  ('unidecode.x0ca',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ca.py',
+   'PYMODULE'),
+  ('unidecode.x0c7',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0c7.py',
+   'PYMODULE'),
+  ('unidecode.x058',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x058.py',
+   'PYMODULE'),
+  ('unidecode.x003',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x003.py',
+   'PYMODULE'),
+  ('unidecode.x0bd',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0bd.py',
+   'PYMODULE'),
+  ('unidecode.x018',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x018.py',
+   'PYMODULE'),
+  ('unidecode.x09f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x09f.py',
+   'PYMODULE'),
+  ('unidecode.x04d',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x04d.py',
+   'PYMODULE'),
+  ('unidecode.x013',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x013.py',
+   'PYMODULE'),
+  ('unidecode.x01f',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x01f.py',
+   'PYMODULE'),
+  ('unidecode.x062',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x062.py',
+   'PYMODULE'),
+  ('unidecode.x069',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x069.py',
+   'PYMODULE'),
+  ('unidecode.x090',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x090.py',
+   'PYMODULE'),
+  ('unidecode.x08b',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x08b.py',
+   'PYMODULE'),
+  ('unidecode.x027',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x027.py',
+   'PYMODULE'),
+  ('unidecode.x029',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x029.py',
+   'PYMODULE'),
+  ('unidecode.x0b6',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0b6.py',
+   'PYMODULE'),
+  ('unidecode.x00b',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x00b.py',
+   'PYMODULE'),
+  ('unidecode.x0ac',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ac.py',
+   'PYMODULE'),
+  ('unidecode.x002',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x002.py',
+   'PYMODULE'),
+  ('unidecode.x09a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x09a.py',
+   'PYMODULE'),
+  ('unidecode.x07a',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x07a.py',
+   'PYMODULE'),
+  ('unidecode.__main__',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\__main__.py',
+   'PYMODULE'),
+  ('unidecode.x097',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x097.py',
+   'PYMODULE'),
+  ('unidecode.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\util.py',
+   'PYMODULE'),
+  ('unidecode.x09e',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x09e.py',
+   'PYMODULE'),
+  ('unidecode.x0ad',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0ad.py',
+   'PYMODULE'),
+  ('unidecode.x0fb',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0fb.py',
+   'PYMODULE'),
+  ('unidecode.x091',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x091.py',
+   'PYMODULE'),
+  ('unidecode.x092',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x092.py',
+   'PYMODULE'),
+  ('unidecode.x09b',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x09b.py',
+   'PYMODULE'),
+  ('unidecode.x1d6',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x1d6.py',
+   'PYMODULE'),
+  ('unidecode.x006',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x006.py',
+   'PYMODULE'),
+  ('unidecode.x004',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x004.py',
+   'PYMODULE'),
+  ('unidecode.x0cd',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\unidecode\\x0cd.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\shakeel\\local settings\\application '
+   'data\\Programs\\Python\\python38-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE')])
